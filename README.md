@@ -7,8 +7,8 @@ A USHL junior hockey team is looking for statistical player insights that contri
 ## Data Source:
 This dataset contains a variety of NHL player statistics for every player and team from the 2004-2018 season.
 
-NHL Player Stats dataset from Kaggle and data was aquired from www.hockey-reference.com
-https://www.kaggle.com/datasets/xavya77/nhl04to18?resource=download
+NHL Player Stats dataset from [Kaggle](https://www.kaggle.com/datasets/xavya77/nhl04to18?resource=download) and data was aquired from www.hockey-reference.com
+
 
 [Original Dataset](https://www.kaggle.com/datasets/xavya77/nhl04to18/download?datasetVersionNumber=2)
 
