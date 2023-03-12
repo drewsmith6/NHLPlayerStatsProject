@@ -12,6 +12,4 @@ NHL Player Stats dataset is from [Kaggle](https://www.kaggle.com/datasets/xavya7
 [Original Dataset](https://www.kaggle.com/datasets/xavya77/nhl04to18/download?datasetVersionNumber=2)
 
 ## Tableau Storyboard
-This storyboard doesn’t contain every step of the whole analysis but only the information relevant to the final results.
-
 [Link](https://public.tableau.com/app/profile/andrew.smith6925/viz/NHLPlayerStatsProjectStoryboard/NHLPlayerStoryboard)
